@@ -1,4 +1,4 @@
-###MineOS
+#MineOS
 MineOS is going to be an operating system aiming to provide simplicity with power for cryptocurrency miners.
 
 #this project uses [THIS](https://github.com/cfenollosa/os-tutorial) tutorial and source to base everything.
